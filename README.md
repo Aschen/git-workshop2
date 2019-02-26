@@ -1,1 +1,3 @@
-# git-workshop2
+# Git Workshop
+
+Awesome example no?
